@@ -1,3 +1,5 @@
+<img src="https://github.com/kay-kun/Biostar-Comet-Lake-Vega-Open-Core-Hackintosh/blob/main/About%20this%20mac.png?raw=true">
+
 ## Specification
 Specification | Configuration
 ----------- | -----------
